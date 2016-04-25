@@ -1,2 +1,4 @@
 # hello-world
-learning git
+learning git with online Git tutorial
+
+What commits did I do?
